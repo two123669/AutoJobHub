@@ -101,7 +101,7 @@ button:hover{
 
 </div>
 
-   <script>
+  <script>
 // 1. 声明一个全局变量，用来存所有从 data.json 拿到的企业数据
 let allCompanies = [];
 
@@ -140,13 +140,13 @@ function renderCompanies(companiesList) {
         card.className = 'company-card'; // 配合你原有的 CSS 样式
         
         // 生成标签的 HTML
-        const tagsHtml = company.tags.map(tag => `<span class="tag" onclick="filterCompanies('${tag.toLowerCase()}')">${tag}</span>`).join('');
+        const tagsHtml = company.tags.map(tag => `<span class="tag" onclick="filterCompanies('${tag.toLowerCase()}')" style="cursor:pointer; margin-right:5px; background:#e1f5fe; padding:2px 6px; border-radius:4px; font-size:12px;">${tag}</span>`).join('');
         
         card.innerHTML = `
             <h3>${company.name}</h3>
-            <p class="category">${company.category}</p>
-            <div class="tags">${tagsHtml}</div>
-            <a href="${company.url}" target="_blank" class="btn">官网投递</a>
+            <p class="category" style="color:#666; margin:5px 0;">${company.category}</p>
+            <div class="tags" style="margin-bottom:10px;">${tagsHtml}</div>
+            <a href="${company.url}" target="_blank" class="btn" style="display:inline-block; background:#1677ff; color:white; padding:5px 10px; text-decoration:none; border-radius:4px; font-size:14px;">官网投递</a>
         `;
         container.appendChild(card);
     });
