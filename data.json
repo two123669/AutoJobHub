@@ -1,0 +1,20 @@
+[
+  {
+    "name": "比亚迪",
+    "category": "整车厂",
+    "tags": ["BMS", "MCU", "电池"],
+    "url": "https://job.byd.com"
+  },
+  {
+    "name": "华为",
+    "category": "Tier1",
+    "tags": ["VCU", "AUTOSAR", "芯片"],
+    "url": "https://career.huawei.com"
+  },
+  {
+    "name": "博世",
+    "category": "Tier1",
+    "tags": ["ECU", "VCU"],
+    "url": "https://www.bosch.com.cn"
+  }
+]
