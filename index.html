@@ -101,6 +101,73 @@ button:hover{
 
 </div>
 
+    <script>
+// 1. 声明一个全局变量，用来存所有从 data.json 拿到的企业数据
+let allCompanies = [];
+
+// 2. 页面一加载，就去读取 data.json
+document.addEventListener('DOMContentLoaded', () => {
+    fetch('data.json')
+        .then(response => response.json())
+        .then(data => {
+            allCompanies = data; // 把数据存起来
+            renderCompanies(allCompanies); // 首次渲染全部企业
+        })
+        .catch(error => console.error('读取数据失败:', error));
+        
+    // 绑定搜索框输入事件
+    const searchInput = document.querySelector('.search-box input');
+    if(searchInput) {
+        searchInput.addEventListener('input', (e) => {
+            const keyword = e.target.value.trim().toLowerCase();
+            filterCompanies(keyword);
+        });
+    }
+});
+
+// 3. 负责把数据变成网页格子的函数
+function renderCompanies(companiesList) {
+    // 假设你的企业列表容器的 class 名叫 company-list 或 grid 之类的
+    // 注意：这里我们先找你页面里放企业卡片的那个大盒子，如果没有，我们待会微调 class 名
+    const container = document.querySelector('.company-grid') || document.querySelector('.company-list');
+    if (!container) return;
+    
+    // 清空旧的静态内容
+    container.innerHTML = '';
+    
+    // 循环数据，生成新的格子
+    companiesList.forEach(company => {
+        const card = document.createElement('div');
+        card.className = 'company-card'; // 配合你原有的 CSS 样式
+        
+        // 生成标签的 HTML
+        const tagsHtml = company.tags.map(tag => `<span class="tag" onclick="filterCompanies('${tag.toLowerCase()}')">${tag}</span>`).join('');
+        
+        card.innerHTML = `
+            <h3>${company.name}</h3>
+            <p class="category">${company.category}</p>
+            <div class="tags">${tagsHtml}</div>
+            <a href="${company.url}" target="_blank" class="btn">官网投递</a>
+        `;
+        container.appendChild(card);
+    });
+}
+
+// 4. 负责搜索和关键词过滤的函数
+function filterCompanies(keyword) {
+    if (!keyword) {
+        renderCompanies(allCompanies); // 如果没有输入，显示全部
+        return;
+    }
+    const filtered = allCompanies.filter(company => {
+        const matchName = company.name.toLowerCase().includes(keyword);
+        const matchCategory = company.category.toLowerCase().includes(keyword);
+        const matchTags = company.tags.some(tag => tag.toLowerCase().includes(keyword));
+        return matchName || matchCategory || matchTags;
+    });
+    renderCompanies(filtered);
+}
+</script>
 </body>
 
 </html>
