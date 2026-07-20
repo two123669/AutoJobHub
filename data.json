@@ -70,5 +70,767 @@
     "category": "Tier1",
     "tags": ["ECU", "VCU", "智能驾驶"],
     "url": "https://continental.com"
+  },
+  {
+    "name": "极氪汽车",
+    "category": "整车厂",
+    "tags": ["VCU", "MCU", "智能座舱"],
+    "url": "https://geely.jobs.feishu.cn"
+  },
+  {
+    "name": "广汽埃安",
+    "category": "整车厂",
+    "tags": ["BMS", "电池", "智能驾驶"],
+    "url": "https://gacne.com.cn"
+  },
+  {
+    "name": "智己汽车",
+    "category": "整车厂",
+    "tags": ["智能驾驶", "芯片", "VCU"],
+    "url": "https://imautotech.com"
+  },
+  {
+    "name": "地平线",
+    "category": "芯片",
+    "tags": ["芯片", "智能驾驶", "AUTOSAR"],
+    "url": "https://horizon.ai"
+  },
+  {
+    "name": "黑芝麻智能",
+    "category": "芯片",
+    "tags": ["芯片", "智能驾驶", "ECU"],
+    "url": "https://bst.ai"
+  },
+  {
+    "name": "芯驰科技",
+    "category": "芯片",
+    "tags": ["芯片", "MCU", "智能座舱"],
+    "url": "https://semidrive.cc"
+  },
+  {
+    "name": "亿咖通科技",
+    "category": "Tier1",
+    "tags": ["智能座舱", "芯片", "AUTOSAR"],
+    "url": "https://ecarxgroup.com"
+  },
+  {
+    "name": "中创新航",
+    "category": "电池",
+    "tags": ["电池", "BMS"],
+    "url": "https://calb-tech.com"
+  },
+  {
+    "name": "欣旺达",
+    "category": "电池",
+    "tags": ["电池", "BMS", "MCU"],
+    "url": "https://sunwoda.com"
+  },
+  {
+    "name": "蜂巢能源",
+    "category": "电池",
+    "tags": ["电池", "BMS"],
+    "url": "https://svolt.cn"
+  },
+  {
+    "name": "保隆科技",
+    "category": "Tier1",
+    "tags": ["ECU", "传感器", "VCU"],
+    "url": "https://baolong.biz"
+  },
+  {
+    "name": "均胜电子",
+    "category": "Tier1",
+    "tags": ["智能座舱", "BMS", "ECU"],
+    "url": "https://joyson.graphics"
+  },
+  {
+    "name": "拓普集团",
+    "category": "Tier1",
+    "tags": ["电机控制器", "MCU"],
+    "url": "https://tuopu.in"
+  },
+  {
+    "name": "英伟达",
+    "category": "芯片",
+    "tags": ["芯片", "智能驾驶"],
+    "url": "https://nvidia.cn"
+  },
+  {
+    "name": "高通",
+    "category": "芯片",
+    "tags": ["芯片", "智能座舱"],
+    "url": "https://qualcomm.cn"
+  },
+  {
+    "name": "恩智浦",
+    "category": "芯片",
+    "tags": ["芯片", "MCU", "ECU"],
+    "url": "https://nxp.com.cn"
+  },
+  {
+    "name": "英飞凌",
+    "category": "芯片",
+    "tags": ["芯片", "MCU", "BMS"],
+    "url": "https://infineon.com"
+  },
+  {
+    "name": "意法半导体",
+    "category": "芯片",
+    "tags": ["芯片", "MCU"],
+    "url": "https://st.com"
+  },
+  {
+    "name": "采埃孚",
+    "category": "Tier1",
+    "tags": ["ECU", "VCU", "智能驾驶"],
+    "url": "https://zf.com"
+  },
+  {
+    "name": "法雷奥",
+    "category": "Tier1",
+    "tags": ["智能座舱", "传感器", "MCU"],
+    "url": "https://valeo.com"
+  },
+  {
+    "name": "岚图汽车",
+    "category": "整车厂",
+    "tags": ["VCU", "MCU", "智能驾驶"],
+    "url": "https://dfmc.com.cn"
+  },
+  {
+    "name": "阿维塔科技",
+    "category": "整车厂",
+    "tags": ["智能驾驶", "智能座舱", "BMS"],
+    "url": "https://avatr.com"
+  },
+  {
+    "name": "深蓝汽车",
+    "category": "整车厂",
+    "tags": ["VCU", "MCU", "电机控制器"],
+    "url": "https://changan.com.cn"
+  },
+  {
+    "name": "飞凡汽车",
+    "category": "整车厂",
+    "tags": ["智能座舱", "VCU"],
+    "url": "https://saicmotor.com"
+  },
+  {
+    "name": "零跑汽车",
+    "category": "整车厂",
+    "tags": ["VCU", "BMS", "智能驾驶"],
+    "url": "https://leapmotor.com"
+  },
+  {
+    "name": "哪吒汽车",
+    "category": "整车厂",
+    "tags": ["ECU", "VCU", "BMS"],
+    "url": "https://hozonauto.com"
+  },
+  {
+    "name": "腾势汽车",
+    "category": "整车厂",
+    "tags": ["BMS", "MCU", "电池"],
+    "url": "https://denza.com"
+  },
+  {
+    "name": "仰望汽车",
+    "category": "整车厂",
+    "tags": ["MCU", "电机控制器", "智能驾驶"],
+    "url": "https://yangwangauto.com"
+  },
+  {
+    "name": "长城汽车",
+    "category": "整车厂",
+    "tags": ["ECU", "VCU", "智能驾驶"],
+    "url": "https://gwm.com.cn"
+  },
+  {
+    "name": "奇瑞新能源",
+    "category": "整车厂",
+    "tags": ["VCU", "MCU", "BMS"],
+    "url": "https://cheryev.cn"
+  },
+  {
+    "name": "禾赛科技",
+    "category": "Tier1",
+    "tags": ["传感器", "智能驾驶"],
+    "url": "https://hesaitech.com"
+  },
+  {
+    "name": "速腾聚创",
+    "category": "Tier1",
+    "tags": ["传感器", "智能驾驶"],
+    "url": "https://robosense.ai"
+  },
+  {
+    "name": "文远知行",
+    "category": "Tier1",
+    "tags": ["智能驾驶", "芯片"],
+    "url": "https://weride.ai"
+  },
+  {
+    "name": "小马智行",
+    "category": "Tier1",
+    "tags": ["智能驾驶", "AUTOSAR"],
+    "url": "https://pony.ai"
+  },
+  {
+    "name": "百度Apollo",
+    "category": "Tier1",
+    "tags": ["智能驾驶", "智能座舱"],
+    "url": "https://apollo.auto"
+  },
+  {
+    "name": "大疆车载",
+    "category": "Tier1",
+    "tags": ["智能驾驶", "ECU", "芯片"],
+    "url": "https://car.dji.com"
+  },
+  {
+    "name": "国轩高科",
+    "category": "电池",
+    "tags": ["电池", "BMS"],
+    "url": "https://gotion.com.cn"
+  },
+  {
+    "name": "亿纬锂能",
+    "category": "电池",
+    "tags": ["电池", "BMS"],
+    "url": "https://evebat.com"
+  },
+  {
+    "name": "远景动力",
+    "category": "电池",
+    "tags": ["电池", "BMS", "MCU"],
+    "url": "https://envision-aesc.com"
+  },
+  {
+    "name": "杰发科技",
+    "category": "芯片",
+    "tags": ["芯片", "MCU"],
+    "url": "https://autochips.com"
+  },
+  {
+    "name": "纳芯微电子",
+    "category": "芯片",
+    "tags": ["芯片", "传感器"],
+    "url": "https://novosns.com"
+  },
+  {
+    "name": "全志科技",
+    "category": "芯片",
+    "tags": ["芯片", "智能座舱"],
+    "url": "https://allwinnertech.com"
+  },
+  {
+    "name": "国芯科技",
+    "category": "芯片",
+    "tags": ["芯片", "MCU", "ECU"],
+    "url": "https://ccgc.com"
+  },
+  {
+    "name": "商汤绝影",
+    "category": "Tier1",
+    "tags": ["智能驾驶", "智能座舱"],
+    "url": "https://sensetime.com"
+  },
+  {
+    "name": "纵目科技",
+    "category": "Tier1",
+    "tags": ["智能驾驶", "ECU", "传感器"],
+    "url": "https://zongmutech.com"
+  },
+  {
+    "name": "佑驾创新",
+    "category": "Tier1",
+    "tags": ["智能驾驶", "AUTOSAR"],
+    "url": "https://minieye.cc"
+  },
+  {
+    "name": "宏景智驾",
+    "category": "Tier1",
+    "tags": ["智能驾驶", "ECU"],
+    "url": "https://hongjingdrive.com"
+  },
+  {
+    "name": "莫之比智能",
+    "category": "Tier1",
+    "tags": ["传感器", "ECU"],
+    "url": "https://mozhibi.com"
+  },
+  {
+    "name": "中汽创智",
+    "category": "Tier1",
+    "tags": ["AUTOSAR", "VCU", "智能驾驶"],
+    "url": "https://t3ic.com"
+  },
+  {
+    "name": "联合汽车电子",
+    "category": "Tier1",
+    "tags": ["ECU", "VCU", "MCU"],
+    "url": "https://uaes.com"
+  },
+  {
+    "name": "华阳通用",
+    "category": "Tier1",
+    "tags": ["智能座舱", "MCU"],
+    "url": "https://foryougeneral.com"
+  },
+  {
+    "name": "航盛电子",
+    "category": "Tier1",
+    "tags": ["智能座舱", "VCU"],
+    "url": "https://hangsheng.com"
+  },
+  {
+    "name": "铁将军",
+    "category": "Tier1",
+    "tags": ["传感器", "ECU"],
+    "url": "https://steel-mate.com"
+  },
+  {
+    "name": "赛力斯汽车",
+    "category": "整车厂",
+    "tags": ["VCU", "MCU", "智能驾驶"],
+    "url": "https://seres.cn"
+  },
+  {
+    "name": "江淮汽车",
+    "category": "整车厂",
+    "tags": ["ECU", "VCU", "BMS"],
+    "url": "https://jac.com.cn"
+  },
+  {
+    "name": "长安马自达",
+    "category": "整车厂",
+    "tags": ["ECU", "智能座舱"],
+    "url": "https://changan-mazda.com.cn"
+  },
+  {
+    "name": "上汽通用五菱",
+    "category": "整车厂",
+    "tags": ["VCU", "BMS", "MCU"],
+    "url": "https://sgmw.com.cn"
+  },
+  {
+    "name": "北汽蓝谷",
+    "category": "整车厂",
+    "tags": ["VCU", "BMS", "智能座舱"],
+    "url": "https://bjev.com.cn"
+  },
+  {
+    "name": "丰田汽车(中国)",
+    "category": "整车厂",
+    "tags": ["ECU", "BMS", "智能驾驶"],
+    "url": "https://toyota.com.cn"
+  },
+  {
+    "name": "本田汽车(中国)",
+    "category": "整车厂",
+    "tags": ["ECU", "智能座舱"],
+    "url": "https://honda.com.cn"
+  },
+  {
+    "name": "极越汽车",
+    "category": "整车厂",
+    "tags": ["智能驾驶", "智能座舱", "芯片"],
+    "url": "https://jiyue-auto.com"
+  },
+  {
+    "name": "一汽红旗",
+    "category": "整车厂",
+    "tags": ["VCU", "BMS", "AUTOSAR"],
+    "url": "https://faw.com.cn"
+  },
+  {
+    "name": "东风风神",
+    "category": "整车厂",
+    "tags": ["MCU", "ECU", "电机控制器"],
+    "url": "https://dfpv.com.cn"
+  },
+  {
+    "name": "上汽大众",
+    "category": "整车厂",
+    "tags": ["ECU", "BMS", "智能驾驶"],
+    "url": "https://csvw.com"
+  },
+  {
+    "name": "一汽大众",
+    "category": "整车厂",
+    "tags": ["ECU", "BMS", "智能座舱"],
+    "url": "https://faw-vw.com"
+  },
+  {
+    "name": "特斯拉(中国)",
+    "category": "整车厂",
+    "tags": ["智能驾驶", "BMS", "芯片"],
+    "url": "https://tesla.cn"
+  },
+  {
+    "name": "智驾科技MAXIEYE",
+    "category": "Tier1",
+    "tags": ["智能驾驶", "传感器", "ECU"],
+    "url": "https://maxieye.com"
+  },
+  {
+    "name": "轻舟智航",
+    "category": "Tier1",
+    "tags": ["智能驾驶", "芯片"],
+    "url": "https://qcraft.ai"
+  },
+  {
+    "name": "元戎启行",
+    "category": "Tier1",
+    "tags": ["智能驾驶", "芯片"],
+    "url": "https://deeproute.ai"
+  },
+  {
+    "name": "知行科技",
+    "category": "Tier1",
+    "tags": ["智能驾驶", "ECU", "AUTOSAR"],
+    "url": "https://i-motion.cn"
+  },
+  {
+    "name": "魔视智能",
+    "category": "Tier1",
+    "tags": ["智能驾驶", "ECU", "传感器"],
+    "url": "https://motovis.com"
+  },
+  {
+    "name": "驭势科技",
+    "category": "Tier1",
+    "tags": ["智能驾驶", "智能座舱"],
+    "url": "https://uisee.com"
+  },
+  {
+    "name": "四维图新",
+    "category": "Tier1",
+    "tags": ["芯片", "智能驾驶", "智能座舱"],
+    "url": "https://navinfo.com"
+  },
+  {
+    "name": "海拉(中国)",
+    "category": "Tier1",
+    "tags": ["传感器", "ECU"],
+    "url": "https://hella.com"
+  },
+  {
+    "name": "电装(中国)",
+    "category": "Tier1",
+    "tags": ["ECU", "VCU", "BMS"],
+    "url": "https://denso.com.cn"
+  },
+  {
+    "name": "万安科技",
+    "category": "Tier1",
+    "tags": ["ECU", "线控底盘"],
+    "url": "https://vie.com.cn"
+  },
+  {
+    "name": "伯特利",
+    "category": "Tier1",
+    "tags": ["线控底盘", "ECU", "智能驾驶"],
+    "url": "https://bendix-bftl.com"
+  },
+  {
+    "name": "三花智控",
+    "category": "Tier1",
+    "tags": ["热管理", "传感器"],
+    "url": "https://sanjiu.com"
+  },
+  {
+    "name": "银轮股份",
+    "category": "Tier1",
+    "tags": ["热管理"],
+    "url": "https://yinlun.com"
+  },
+  {
+    "name": "中汽股份",
+    "category": "Tier1",
+    "tags": ["智能驾驶", "传感器"],
+    "url": "https://catarc.ac.cn"
+  },
+  {
+    "name": "普华软件",
+    "category": "Tier1",
+    "tags": ["AUTOSAR", "ECU"],
+    "url": "https://pioneersoft.com.cn"
+  },
+  {
+    "name": "瑞萨电子",
+    "category": "芯片",
+    "tags": ["芯片", "MCU", "智能座舱"],
+    "url": "https://renesas.com"
+  },
+  {
+    "name": "加特兰微电子",
+    "category": "芯片",
+    "tags": ["芯片", "传感器"],
+    "url": "https://calterah.com"
+  },
+  {
+    "name": "复旦微电子",
+    "category": "芯片",
+    "tags": ["芯片", "MCU"],
+    "url": "https://fmsh.com"
+  },
+  {
+    "name": "寒武纪行歌",
+    "category": "芯片",
+    "tags": ["芯片", "智能驾驶"],
+    "url": "https://cambricon.com"
+  },
+  {
+    "name": "黑芝麻智能",
+    "category": "芯片",
+    "tags": ["芯片", "智能驾驶", "ECU"],
+    "url": "https://black sesame.com.cn"
+  },
+  {
+    "name": "赛晶半导体",
+    "category": "芯片",
+    "tags": ["芯片", "电机控制器"],
+    "url": "https://sunking-tech.com"
+  },
+  {
+    "name": "斯达半导",
+    "category": "芯片",
+    "tags": ["芯片", "电机控制器"],
+    "url": "https://starpower-semi.com"
+  },
+  {
+    "name": "时代电气",
+    "category": "芯片",
+    "tags": ["芯片", "电机控制器", "MCU"],
+    "url": "https://csrzic.com"
+  },
+  {
+    "name": "宏微科技",
+    "category": "芯片",
+    "tags": ["芯片", "电机控制器"],
+    "url": "https://macmicst.com"
+  },
+  {
+    "name": "新洁能",
+    "category": "芯片",
+    "tags": ["芯片", "BMS"],
+    "url": "https://ncepower.com"
+  },
+  {
+    "name": "派能科技",
+    "category": "电池",
+    "tags": ["电池", "BMS"],
+    "url": "https://pylontech.com.cn"
+  },
+  {
+    "name": "鹏辉能源",
+    "category": "电池",
+    "tags": ["电池", "BMS"],
+    "url": "https://phylion.com"
+  },
+  {
+    "name": "多氟多",
+    "category": "电池",
+    "tags": ["电池", "电池"],
+    "url": "https://dfdchem.com"
+  },
+  {
+    "name": "南都电源",
+    "category": "电池",
+    "tags": ["电池", "BMS"],
+    "url": "https://naradapower.com"
+  },
+  {
+    "name": "天能电池",
+    "category": "电池",
+    "tags": ["电池", "BMS"],
+    "url": "https://tianneng.com"
+  },
+  {
+    "name": "超威集团",
+    "category": "电池",
+    "tags": ["电池", "BMS"],
+    "url": "https://chilwee.cc"
+  },
+  {
+    "name": "孚能科技",
+    "category": "电池",
+    "tags": ["电池", "BMS"],
+    "url": "https://farasis.com"
+  },
+  {
+    "name": "捷威动力",
+    "category": "电池",
+    "tags": ["电池", "BMS"],
+    "url": "https://jewebattery.com"
+  },
+  {
+    "name": "瑞浦兰钧",
+    "category": "电池",
+    "tags": ["电池", "BMS"],
+    "url": "https://retop-battery.com"
+  },
+  {
+    "name": "力神电池",
+    "category": "电池",
+    "tags": ["电池", "BMS"],
+    "url": "https://lishen.com.cn"
+  },
+  {
+    "name": "比克电池",
+    "category": "电池",
+    "tags": ["电池", "BMS"],
+    "url": "https://bakbattery.com"
+  },
+  {
+    "name": "安波福(中国)",
+    "category": "Tier1",
+    "tags": ["智能驾驶", "智能座舱", "AUTOSAR"],
+    "url": "https://aptiv.com"
+  },
+  {
+    "name": "李尔(中国)",
+    "category": "Tier1",
+    "tags": ["智能座舱", "ECU"],
+    "url": "https://lear.com"
+  },
+  {
+    "name": "麦格纳(中国)",
+    "category": "Tier1",
+    "tags": ["智能驾驶", "ECU", "线控底盘"],
+    "url": "https://magna.com"
+  },
+  {
+    "name": "伟世通(中国)",
+    "category": "Tier1",
+    "tags": ["智能座舱", "芯片", "AUTOSAR"],
+    "url": "https://visteon.com"
+  },
+  {
+    "name": "佛吉亚(中国)",
+    "category": "Tier1",
+    "tags": ["智能座舱", "ECU"],
+    "url": "https://faurecia.com"
+  },
+  {
+    "name": "德尔福科技",
+    "category": "Tier1",
+    "tags": ["ECU", "VCU", "MCU"],
+    "url": "https://delphi.com"
+  },
+  {
+    "name": "巴斯夫(中国)",
+    "category": "Tier1",
+    "tags": ["电池"],
+    "url": "https://basf.com"
+  },
+  {
+    "name": "万向创新聚能",
+    "category": "电池",
+    "tags": ["电池", "BMS"],
+    "url": "https://wanxiang.com.cn"
+  },
+  {
+    "name": "精进电动",
+    "category": "Tier1",
+    "tags": ["电机控制器", "MCU"],
+    "url": "https://jjisynchromesh.com"
+  },
+  {
+    "name": "巨一科技",
+    "category": "Tier1",
+    "tags": ["电机控制器", "MCU", "VCU"],
+    "url": "https://jee-pt.com"
+  },
+  {
+    "name": "方正电机",
+    "category": "Tier1",
+    "tags": ["电机控制器", "MCU"],
+    "url": "https://fzm.com.cn"
+  },
+  {
+    "name": "大洋电机",
+    "category": "Tier1",
+    "tags": ["电机控制器", "MCU"],
+    "url": "https://broad-ocean.com"
+  },
+  {
+    "name": "信质电机",
+    "category": "Tier1",
+    "tags": ["电机控制器"],
+    "url": "https://wzxz.com"
+  },
+  {
+    "name": "胜华新材",
+    "category": "电池",
+    "tags": ["电池"],
+    "url": "https://shanchem.com"
+  },
+  {
+    "name": "恩捷股份",
+    "category": "电池",
+    "tags": ["电池"],
+    "url": "https://energy-ch.com"
+  },
+  {
+    "name": "星源材质",
+    "category": "电池",
+    "tags": ["电池"],
+    "url": "https://seniorseven.com"
+  },
+  {
+    "name": "新宙邦",
+    "category": "电池",
+    "tags": ["电池", "BMS"],
+    "url": "https://capchem.com"
+  },
+  {
+    "name": "天赐材料",
+    "category": "电池",
+    "tags": ["电池"],
+    "url": "https://tinci.com"
+  },
+  {
+    "name": "华友钴业",
+    "category": "电池",
+    "tags": ["电池"],
+    "url": "https://huayou.com"
+  },
+  {
+    "name": "格林美",
+    "category": "电池",
+    "tags": ["电池"],
+    "url": "https://gem.com.cn"
+  },
+  {
+    "name": "容百科技",
+    "category": "电池",
+    "tags": ["电池"],
+    "url": "https://ronbaytech.com"
+  },
+  {
+    "name": "当升科技",
+    "category": "电池",
+    "tags": ["电池"],
+    "url": "https://easyon.com.cn"
+  },
+  {
+    "name": "杉杉股份",
+    "category": "电池",
+    "tags": ["电池"],
+    "url": "https://sansen.com"
+  },
+  {
+    "name": "璞泰来",
+    "category": "电池",
+    "tags": ["电池"],
+    "url": "https://putailai.com"
+  },
+  {
+    "name": "中科电气",
+    "category": "电池",
+    "tags": ["电池"],
+    "url": "https://chinamagnets.com"
   }
 ]
