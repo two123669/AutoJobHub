@@ -14,7 +14,61 @@
   {
     "name": "博世",
     "category": "Tier1",
-    "tags": ["ECU", "VCU"],
+    "tags": ["ECU", "VCU", "AUTOSAR"],
     "url": "https://www.bosch.com.cn"
+  },
+  {
+    "name": "理想汽车",
+    "category": "整车厂",
+    "tags": ["VCU", "BMS", "智能驾驶"],
+    "url": "https://li.jobs.feishu.cn"
+  },
+  {
+    "name": "蔚来汽车",
+    "category": "整车厂",
+    "tags": ["BMS", "MCU", "智能座舱"],
+    "url": "https://nio.jobs.feishu.cn"
+  },
+  {
+    "name": "小鹏汽车",
+    "category": "整车厂",
+    "tags": ["VCU", "ECU", "智能驾驶"],
+    "url": "https://xiaopeng.jobs.feishu.cn"
+  },
+  {
+    "name": "小米汽车",
+    "category": "整车厂",
+    "tags": ["VCU", "BMS", "AUTOSAR"],
+    "url": "https://hr.xiaomi.com"
+  },
+  {
+    "name": "宁德时代",
+    "category": "电池",
+    "tags": ["BMS", "电池", "MCU"],
+    "url": "https://catl.com"
+  },
+  {
+    "name": "德赛西威",
+    "category": "Tier1",
+    "tags": ["AUTOSAR", "智能座舱", "芯片"],
+    "url": "https://desay-sv.com"
+  },
+  {
+    "name": "经纬恒润",
+    "category": "Tier1",
+    "tags": ["VCU", "ECU", "AUTOSAR"],
+    "url": "https://hirain.com"
+  },
+  {
+    "name": "汇川技术",
+    "category": "Tier1",
+    "tags": ["MCU", "电机控制器", "BMS"],
+    "url": "https://inovance.com"
+  },
+  {
+    "name": "大陆集团",
+    "category": "Tier1",
+    "tags": ["ECU", "VCU", "智能驾驶"],
+    "url": "https://continental.com"
   }
 ]
