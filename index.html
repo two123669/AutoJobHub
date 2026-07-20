@@ -101,7 +101,7 @@ button:hover{
 
 </div>
 
-    <script>
+   <script>
 // 1. 声明一个全局变量，用来存所有从 data.json 拿到的企业数据
 let allCompanies = [];
 
@@ -115,8 +115,8 @@ document.addEventListener('DOMContentLoaded', () => {
         })
         .catch(error => console.error('读取数据失败:', error));
         
-    // 绑定搜索框输入事件
-    const searchInput = document.querySelector('.search-box input');
+    // 🔍 已经精准对齐你的输入框：.search-bar input
+    const searchInput = document.querySelector('.search-bar input');
     if(searchInput) {
         searchInput.addEventListener('input', (e) => {
             const keyword = e.target.value.trim().toLowerCase();
@@ -127,9 +127,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
 // 3. 负责把数据变成网页格子的函数
 function renderCompanies(companiesList) {
-    // 假设你的企业列表容器的 class 名叫 company-list 或 grid 之类的
-    // 注意：这里我们先找你页面里放企业卡片的那个大盒子，如果没有，我们待会微调 class 名
-    const container = document.querySelector('.company-grid') || document.querySelector('.company-list');
+    // 📦 已经精准对齐你的大盒子：.companies
+    const container = document.querySelector('.companies');
     if (!container) return;
     
     // 清空旧的静态内容
